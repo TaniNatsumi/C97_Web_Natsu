@@ -1,0 +1,31 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "C97_Asu.moc3",
+		"Textures": [
+			"C97_Asu.2048/texture_00.png"
+		],
+		"Pose": "C97_Asu.pose3.json",
+		"DisplayInfo": "C97_Asu.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/C97_Asu2.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

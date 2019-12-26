@@ -40,7 +40,7 @@ export namespace LAppDefine
     // モデルを配置したディレクトリ名の配列
     // ディレクトリ名とmodel3.jsonの名前を一致させておくこと
     export const ModelDir: string[] = [
-        "C97_Natsu"
+        "C97_Asu"
     ]
     export const ModelDirSize: number = ModelDir.length;
 
